@@ -8,7 +8,7 @@ import java.awt.Color;
 public class BlueFilter extends Filter
 {
     /**
-     * Constructor for objects of class Green Filter.
+     * Constructor for objects of class Blue Filter.
      * @param name The name of the filter.
      */
     public BlueFilter(String name)
